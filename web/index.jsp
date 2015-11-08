@@ -1,4 +1,4 @@
-<%-- 
+<%--
     Document   : index
     Created on : 11-07-2015, 03:34:18 PM
     Author     : Victor Arturo
@@ -27,7 +27,7 @@
         <link rel="stylesheet" href="css/main.css">
 
         <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
-    
+
     </head>
     <body>
         <!--[if lt IE 8]>
@@ -68,11 +68,11 @@
 
           </div><!--/.navbar-collapse -->
         </div><!--/.navbar-collapse -->
-      
+
     </nav>
       <section class="app-principal">
         <div class="container">
-          <h1>----------------------</h1>
+
           <p><h3>Bienvenidos a TecnoInfo</h3></p>
         <div>
 
@@ -161,9 +161,9 @@
           <a href="https://twitter.com/TecnoInfoSV" target="_blank"><img alt="siguenos en Twitter" height="40" src="http://2.bp.blogspot.com/-ZaTYz5sdFmc/UiX1V-AhNLI/AAAAAAAAB6M/ufa5OqT3x4o/s1600/Twitter+alt+4.png" title="siguenos en Twitter" width="40" /></a>
           <a href="http://tecnoinfo.pswebstore.com/es/" target="_blank"><img alt="vsita nuestra tienda" height="40" src="http://webmediaart.com/wp-content/uploads/2014/06/51527.png" title="Visita nuestra tienda" width="40" /></a>
 
-		  
+
 		</div>
-		
+
       </div>
 
       <hr>
